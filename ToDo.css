@@ -1,0 +1,22 @@
+  h3 {
+    color: blue;
+  }
+  h4 {
+    color : green;
+  }
+  h6 {
+    color : pink;
+  }
+
+  .high {
+    background-color : red 
+  }
+  .medium {
+    background-color : orange
+  }
+  .low {
+    background-color : gray
+  }
+  .done {
+    text-decoration : line-through
+  }
