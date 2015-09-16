@@ -13,13 +13,13 @@
   }
 
   .high {
-    background-color : red 
+    color : red 
   }
   .medium {
-    background-color : orange
+    color : orange
   }
   .low {
-    background-color : gray
+    color : gray
   }
   .done {
     text-decoration : line-through
