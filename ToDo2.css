@@ -1,12 +1,34 @@
+h3 {
+  background color: blue;
+}
 #high {
-  
+  background-color: red;
 }
 #high>li {
+  color:white;
+  list-style-type: circle;
 }
 # low {
+  background-color: gray;
+  
 }
 #low>li {
+  color: blue;
+  list-style-type: disc;
+}
+#medium {
+  background-color: orange;
+  
 }
 #medium>li {
-
+  color: brown;
+   list-style-type:square;
+}
+#done {
+  background-color: black;
+ 
+}
+#done>li {
+  color : cyan;
+   list-style-type:square;
 }
