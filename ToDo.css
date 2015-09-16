@@ -1,4 +1,7 @@
-  
+  body {
+    background-image : url("https://s-media-cache-ak0.pinimg.com/236x/e5/a5/d8/e5a5d85b0e57e7a000ba712e22ca219f.jpg");
+    background-repeat : no repeat;
+  }
   .high {
     color : red 
   }
