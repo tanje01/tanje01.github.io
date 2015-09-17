@@ -8,7 +8,7 @@ h3 {
   color:white;
   list-style-type: circle;
 }
-# low {
+#low {
   background-color: gray;
   
 }
@@ -21,7 +21,7 @@ h3 {
   
 }
 #medium>li {
-  color: rbg(0,10,10);
+   color: rbg(255,10,10);
    list-style-type:square;
 }
 #done {
