@@ -4,7 +4,7 @@ h3 {
 #high {
   background-color: red;
 }
-#high>li {
+#high li {
   color:white;
   list-style-type: circle;
 }
@@ -12,7 +12,7 @@ h3 {
   background-color: gray;
   
 }
-#low>li {
+#low li {
   color: blue;
   list-style-type: disc;
 }
