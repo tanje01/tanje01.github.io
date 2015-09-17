@@ -21,7 +21,7 @@ h3 {
   
 }
 #medium>li {
-  color: brown;
+  color: rbg(0,10,10);
    list-style-type:square;
 }
 #done {
@@ -29,6 +29,6 @@ h3 {
  
 }
 #done>li {
-  color : cyan;
+   color : rbg(200,80,100);
    list-style-type:square;
 }
