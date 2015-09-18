@@ -1,37 +1,35 @@
 h3 {
-  background color: blue;
+  background color: purple;
+  text-decoration: underline;
+}
+li {
+  list-style-type: circle;
 }
 #high {
   background-color: red;
-  background-size : 80px 60px;
 }
 #high li {
   color:white;
-  list-style-type: circle;
 }
 #low {
   background-color: gray;
-  background-size : 80px 60px;
   
 }
 #low li {
-  list-style-type: disc;
+  color: black;
 }
 #medium {
   background-color: orange;
-  background-size : 80px 60px;
   
 }
 #medium>li {
-   color: rbg(255,10,10);
-   list-style-type:square;
+   color: rgb(139,69,19);
 }
 #done {
   background-color: black;
-  background-size : 80px 60px;
  
 }
 #done>li {
-   color : rbg(200,80,100);
-   list-style-type:square;
+   color : rgb(0,255,255);
+   text-decoration: line-through ;
 }
