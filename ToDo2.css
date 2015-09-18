@@ -1,5 +1,4 @@
 h3 {
-  background color: purple;
   text-decoration: underline;
 }
 li {
@@ -16,7 +15,7 @@ li {
   
 }
 #low li {
-  color: blue;
+  color: black;
 }
 #medium {
   background-color: orange;
@@ -30,6 +29,6 @@ li {
  
 }
 #done>li {
-   color : rgb(0,255,255);
+   color : rgb(255,255,255);
    text-decoration: line-through ;
 }
