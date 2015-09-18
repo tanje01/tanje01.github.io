@@ -21,14 +21,14 @@ li {
   background-color: orange;
   
 }
-#medium>li {
+#medium li {
    color: rgb(160,82,45);
 }
 #done {
   background: black;
  
 }
-#done>li {
+#done li {
    color : rgb(255,235,205);
    text-decoration: line-through ;
 }
