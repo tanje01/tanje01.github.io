@@ -25,7 +25,7 @@ li {
    color: rgb(139,69,19);
 }
 #done {
-  background-color: black;
+  background: black;
  
 }
 #done>li {
