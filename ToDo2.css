@@ -30,6 +30,6 @@ li {
  
 }
 #done li {
-   color : rgb(255,235,205);
+   color : rgb(0,225,225);
    text-decoration: line-through ;
 }
