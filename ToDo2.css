@@ -22,13 +22,13 @@ li {
   
 }
 #medium>li {
-   color: rgb(64,0,0);
+   color: rgb(160,82,45);
 }
 #done {
   background: black;
  
 }
 #done>li {
-   color : rgb(0,255,255);
+   color : rgb(255,235,205);
    text-decoration: line-through ;
 }
