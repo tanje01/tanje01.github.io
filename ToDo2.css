@@ -1,4 +1,5 @@
 h3 {
+  color: green;
   text-decoration: underline;
 }
 li {
@@ -22,7 +23,7 @@ li {
   
 }
 #medium li {
-   color: rgb(160,82,45);
+   color: rgb(195,82,45);
 }
 #done {
   background: black;
