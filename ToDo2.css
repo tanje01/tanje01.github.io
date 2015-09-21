@@ -1,3 +1,11 @@
+section {
+  margin:5px;
+  border: 2px solid black;
+  overflow: auto;
+  display: inline;
+  float: left;
+}
+
 h3 {
   color: green;
   text-decoration: underline;
