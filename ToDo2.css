@@ -5,7 +5,9 @@ section {
   display: inline;
   float: left;
 }
-
+footer {
+  clear: both;
+}
 h3 {
   color: green;
   text-decoration: underline;
