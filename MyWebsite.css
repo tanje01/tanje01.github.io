@@ -6,11 +6,7 @@ header {
   width: 100%;
   height:50px;
 }
-header p {
-  position: fixed;
-  color: white;
-  text-align: center;
-}
+
 nav {
   margin-top: 50px;
   margin-bottom: 0px;
@@ -19,7 +15,7 @@ nav {
 nav li {
   color:#66FFFF;
   display: inline;
-  text-align: right;
+  text-align: left;
 }
 #left section {
   float: left;
@@ -28,9 +24,7 @@ nav li {
   background-color: black;
   
 }
-#left p {
-  color:white;
-}
+
 #right section {
   float: right;
   width: 50%;
