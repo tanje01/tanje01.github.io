@@ -14,11 +14,12 @@ header h3 {
 nav {
   margin-top: 25px;
   margin-bottom: 0px;
-  background-color: black;
+  background-color: gray;
 }
 nav li {
   color:#66FFFF;
   display: inline;
+  text-align: right;
 }
 #left section {
   float: left;
