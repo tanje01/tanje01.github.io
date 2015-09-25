@@ -9,3 +9,30 @@ header {
 header<p {
   color: white;
 }
+nav {
+  margin-top: 25px;
+  margin-bottom: 0px;
+  background-color: black;
+}
+nav li {
+  color:#66FFFF;
+  display: inline;
+}
+#left section {
+  float: left;
+  width:50%;
+  height: 100%;
+  background-image: url("http://media4.popsugar-assets.com/files/2014/08/08/878/n/1922507/caef16ec354ca23b_thumb_temp_cover_file32304521407524949.xxxlarge/i/Funny-Cat-GIFs.jpg");
+  background-repeat: repeat;
+  
+}
+#right section {
+  float: right;
+  width: 50%;
+  height:100%;
+  background-color: black;
+}
+footer {
+  clear:both;
+  background-color:#66FFFF;
+}
