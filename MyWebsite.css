@@ -31,7 +31,7 @@ section.left {
   
 }
 
-h2.left {
+section>h2 {
   color: pink;
 }
 
