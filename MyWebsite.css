@@ -17,7 +17,7 @@ nav li {
   display: inline;
   text-align: left;
 }
-section #left {
+section.left {
   float: left;
   width:50%;
   height: 100%;
@@ -25,7 +25,7 @@ section #left {
   
 }
 
-section #right  {
+section.right  {
   float: right;
   width: 50%;
   height:100%;
