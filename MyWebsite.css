@@ -16,6 +16,13 @@ nav ul {
   display: inline;
   text-align: left;
 }
+
+nav li {
+  color:#66FFFF;
+  display: inline;
+  text-align: left;
+}
+
 section.left {
   float: left;
   width:50%;
