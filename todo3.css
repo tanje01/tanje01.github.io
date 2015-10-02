@@ -1,0 +1,44 @@
+section {
+  margin:5px;
+  border: 2px solid black;
+  overflow: auto;
+  display: inline;
+  float: left;
+}
+footer {
+  clear: both;
+}
+h3 {
+  text-decoration: underline;
+}
+li {
+  list-style-type: circle;
+}
+#high {
+  background-color: red;
+}
+#high li {
+  color:white;
+}
+#low {
+  background-color: gray;
+  
+}
+#low li {
+  color: black;
+}
+#medium {
+  background-color: orange;
+  
+}
+#medium li {
+   color: rgb(195,82,45);
+}
+#done {
+  background: green;
+ 
+}
+#done li {
+   color : rgb(0,225,225);
+   text-decoration: line-through ;
+}
