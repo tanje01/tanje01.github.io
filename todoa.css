@@ -1,14 +1,26 @@
 h1 {
    text-align: center;
 }
+ul {
+   list-style-type: none;
+}
 .todobox {
+   font-size: 20px;
    margin-left: auto;
    margin-right: auto;
    background-color: purple;
    height: 200px;
    width:75%;
 }
-
+.high {
+   color: red;
+}
+.medium {
+   color: orange;
+}
+.low {
+   color: gray;
+}
 section.enterTask {
    padding: 2px;
    margin-top: 25px;
@@ -18,3 +30,4 @@ section.enterTask {
    height:auto;
    background-color: purple;`
 }
+
