@@ -20,8 +20,6 @@ add = function() {
    list.appendChild(newTask);
 }
 finished = function() {
-
-
-
-
+   alert(this.parentNode);
+   this.parentNode.classList.add("done");
 }
