@@ -20,6 +20,11 @@ add = function() {
    list.appendChild(newTask);
 }
 finished = function() {
-   alert(this.parentNode);
-   this.parentNode.classList.add("done");
+   if (this.checked) {
+      this.parentNode.classList.add("done");
+   } else {
+      this.parentNode.classList.remove("done");
+   }
+
+
 }
