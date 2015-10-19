@@ -21,6 +21,9 @@ ul {
 .low {
    color: gray;
 }
+.done {
+   text-decoration: line-through;
+}
 section.enterTask {
    padding: 2px;
    margin-top: 25px;
