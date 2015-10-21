@@ -32,7 +32,6 @@ finished = function() {
 
 }
 
-<script type="text/javascript" src="http://bnmnetp.github.io/CS130/listsaver.js"> </script>
 
 
 
