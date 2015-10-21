@@ -23,9 +23,17 @@ add = function() {
 finished = function() {
    if (this.checked) {
       this.parentNode.classList.add("done");
+      localSave("tasklist")
    } else {
       this.parentNode.classList.remove("done");
+      localSave("tasklist")
    }
 
 
 }
+
+<script type="text/javascript" src="http://bnmnetp.github.io/CS130/listsaver.js"> </script>
+
+
+
+
