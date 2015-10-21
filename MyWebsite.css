@@ -28,12 +28,13 @@ section.left {
   float: left;
   width:50%;
   height: 100%;
-  background-color: blue;
+  background-color: pink;
   
 }
 
 section h2 {
   color: pink;
+  padding: 2px;
 }
 
 section.right  {
