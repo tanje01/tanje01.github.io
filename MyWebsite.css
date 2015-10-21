@@ -31,7 +31,9 @@ nav li {
   display: inline;
   text-align: left;
 }
-
+section < p {
+  padding: 2px;
+}
 section.left {
 
   margin-left: 0px;
