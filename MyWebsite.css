@@ -1,6 +1,10 @@
 body {
   margin:0px;
 }
+img {
+  margin-left: 1px;
+  border 1px solid black;
+}
 
 header {
   position: fixed;
