@@ -57,5 +57,6 @@ section.right  {
 }
 footer {
   clear:both;
-  background-color:#66FFFF;
+  background-color:gray;
+  color: red;
 }
