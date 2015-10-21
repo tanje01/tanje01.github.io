@@ -28,6 +28,7 @@ nav li {
 }
 
 section.left {
+  padding: 1px;
   border: 1px solid black;
   margin-left: 0px;
   float: left;
@@ -43,6 +44,7 @@ section h2 {
 }
 
 section.right  {
+  padding: 1px;
   border: 1px solid black;
   margin-left: 0px;
   float: right;
