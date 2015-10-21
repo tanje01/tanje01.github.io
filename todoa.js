@@ -10,7 +10,7 @@ add = function() {
    newTask = document.createElement("li");
    checkbox = document.createElement("input");
    checkbox.type = "checkbox";
-   checkbox.onclic = finished;
+   checkbox.onclick = finished;
    newTask.appendChild(checkbox);
    words = document.querySelector("#enterHere").value;
    contents = document.createTextNode(words);
