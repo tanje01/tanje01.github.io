@@ -48,7 +48,7 @@ section.right  {
   float: right;
   width: 50%;
   height:100%;
-  background-color: pink;
+  background-color: #66FFFF;
 }
 footer {
   clear:both;
