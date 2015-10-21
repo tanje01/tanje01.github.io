@@ -6,9 +6,12 @@
   <body>
   <script src="todoa.js" >
   </script>
+ 
+  
+  
     <h1 id="title"> Busy Busy </h1>
   <section class="todobox">
-   <ul>
+   <ul id="tasklist">
    </ul>
   </section>
   <section class="enterTask">
@@ -22,6 +25,14 @@
     <button onclick="add();"> New ToDo </button>
   </section>
  </body>
+  <script type="text/javascript">
+window.onload = function() { 
+   restoreList("tasklist",finished)
+}
+</script>
+ 
 </html>
+
+
 
 
