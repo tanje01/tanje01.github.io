@@ -19,14 +19,15 @@ add = function() {
    console.log(newTask.className);
    list = document.querySelector('ul');
    list.appendChild(newTask);
+   localSave("tasklist");
 }
 finished = function() {
    if (this.checked) {
       this.parentNode.classList.add("done");
-      localSave("tasklist")
+      localSave("tasklist");
    } else {
       this.parentNode.classList.remove("done");
-      localSave("tasklist")
+      localSave("tasklist");
    }
 
 
