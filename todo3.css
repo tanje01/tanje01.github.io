@@ -14,31 +14,31 @@ h3 {
 li {
   list-style-type: circle;
 }
-#high {
+.high {
   background-color: red;
 }
-#high li {
+.high li {
   color:white;
 }
-#low {
+.low {
   background-color: gray;
   
 }
-#low li {
+.low li {
   color: black;
 }
-#medium {
+.medium {
   background-color: orange;
   
 }
-#medium li {
+.medium li {
    color: rgb(195,82,45);
 }
-#done {
+.done {
   background: green;
  
 }
-#done li {
+.done li {
    color : rgb(0,225,225);
    text-decoration: line-through ;
 }
