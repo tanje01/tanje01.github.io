@@ -2,7 +2,7 @@ body {
   margin:0px;
 }
 img {
-  margin-left: 1px;
+  padding:4px;
   border: 1px solid black;
 }
 
@@ -31,8 +31,8 @@ nav li {
   display: inline;
   text-align: left;
 }
-section < p {
-  padding: 2px;
+section p {
+  padding: 5px;
 }
 section.left {
 
