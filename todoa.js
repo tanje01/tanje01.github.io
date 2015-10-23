@@ -5,6 +5,8 @@ add = function() {
    var contents;
    var words;
    var priority;
+   var task;
+   task= document.querySelector("#enterHere");
    priority = document.querySelector("#priority").value;   
    console.log(priority);
    newTask = document.createElement("li");
@@ -12,7 +14,7 @@ add = function() {
    checkbox.type = "checkbox";
    checkbox.onclick = finished;
    newTask.appendChild(checkbox);
-   words = document.querySelector("#enterHere").value;
+   words = task.value;
    contents = document.createTextNode(words);
    newTask.className = priority;
    newTask.appendChild(contents);
@@ -20,7 +22,7 @@ add = function() {
    list = document.querySelector('ul');
    list.appendChild(newTask);
    localSave("tasklist");
-   words.value="";
+   task.value="";
 }
 finished = function() {
    if (this.checked) {
