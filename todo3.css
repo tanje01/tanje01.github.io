@@ -14,29 +14,29 @@ h3 {
 li {
   list-style-type: circle;
 }
-.high {
+#high {
   background-color: red;
   color:white;
 }
 
-.low {
+#low {
   background-color: gray;
   color:black;
 }
 
-.medium {
+#medium {
   background-color: orange;
   color: rgb(195,82,45);
   
 }
 
-.done {
+#done {
   background: green;
    color : rgb(0,225,225);
-   text-decoration: line-through ;
+
  
 }
-#here {
-  text-decoration: none;
+#done>li {
+  text-decoration: line-through ;
 }
 
