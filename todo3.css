@@ -17,28 +17,28 @@ li {
 .high {
   background-color: red;
 }
-.high li {
+li.high  {
   color:white;
 }
 .low {
   background-color: gray;
   
 }
-.low li {
+li.low  {
   color: black;
 }
 .medium {
   background-color: orange;
   
 }
-.medium li {
+li.medium  {
    color: rgb(195,82,45);
 }
 .done {
   background: green;
  
 }
-.done li {
+li.done  {
    color : rgb(0,225,225);
    text-decoration: line-through ;
 }
