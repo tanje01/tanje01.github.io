@@ -16,29 +16,24 @@ li {
 }
 .high {
   background-color: red;
-}
-li.high  {
   color:white;
 }
+
 .low {
   background-color: gray;
-  
+  color:black;
 }
-li.low  {
-  color: black;
-}
+
 .medium {
   background-color: orange;
+  color: rgb(195,82,45);
   
 }
-li.medium  {
-   color: rgb(195,82,45);
-}
+
 .done {
   background: green;
- 
-}
-li.done  {
    color : rgb(0,225,225);
    text-decoration: line-through ;
+ 
 }
+
